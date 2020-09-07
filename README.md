@@ -6,7 +6,7 @@ Automatic folder cleaner in python using OS module
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/RiajulKashem/SRMS.git
+git clone https://github.com/amukherjee01/Automatic-folder-cleaner.git
 ```
 
 Navigate to path where you want to clear the clutter and paste the main.py file. For Example
